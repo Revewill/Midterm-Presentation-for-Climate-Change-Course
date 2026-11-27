@@ -1,0 +1,15 @@
+key,label,unit,default,min,max,step
+events,Disruptions per year,events/year,5,0,30,1
+people,People delayed per event,people,2000,100,10000,100
+delay,Extra travel per person,min,20,0,90,1
+value,Travel time value,CNY/person-h,40,5,150,1
+years,Planning horizon,years,20,1,40,1
+rate,Real discount rate,%,4,0,12,0.5
+share,Delay linked to pump power loss,%,50,0,100,1
+ready,Delay avoided by standby response within that cause,%,30,0,100,1
+backup,Delay avoided by retrofit within that cause,%,85,0,100,1
+crew,Standby response annual cost,CNY/year,15000,0,150000,500
+capital,Backup retrofit capital cost,CNY,350000,0,3000000,5000
+upkeep,Backup retrofit annual upkeep,CNY/year,10000,0,150000,500
+days,Peak workdays,days,8,0,120,1
+workload,Extra delay per workday,person-h/day,100,0,2000,10

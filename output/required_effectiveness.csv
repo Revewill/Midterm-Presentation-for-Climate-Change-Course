@@ -1,0 +1,4 @@
+"strategy","required_effectiveness_within_cause","attainable_at_or_below_100pct"
+"Current practice",0,TRUE
+"Standby response",0.225,TRUE
+"Backup retrofit",0.571623429383043,TRUE

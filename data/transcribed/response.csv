@@ -1,0 +1,8 @@
+source,date,location,event,time_local,quantity,relation,unit
+B01,2026-08-07,Dongcheng,Heavy rain reported,17:00,,,
+B01,2026-08-07,Jingtai Bridge,Flooding detected,17:20,,,
+B01,2026-08-07,Jingtai Bridge,Field depth,,27,greater_than,cm
+B01,2026-08-07,Jingtai Bridge,Dewatering duration,,30,approx,min
+B03,2026-08-07,Operator coverage area,Closure incidents resolved,,10,count,incidents
+B03,2026-08-07,Operator coverage area,Event rainfall average,,27.5,reported,mm
+B03,2026-08-07,Near Yongdingmen,Event rainfall local maximum,,84.6,reported,mm
